@@ -25,7 +25,6 @@ function Sidebar() {
         {/* Resume */}
         <a
             href="./MUHAMAD AMIR RUDIN YUSUP - CV.pdf"
-            download="MUHAMAD AMIR RUDIN YUSUP - CV.pdf"
             className="flex items-center justify-center px-2 py-1 my-2 bg-gray-200 rounded-full cursor-pointer"
         >
             <GiTie className="w-6 h-6" />
