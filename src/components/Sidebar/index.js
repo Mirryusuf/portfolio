@@ -56,17 +56,7 @@ function Sidebar() {
             <p className="my-2 ">yuzufgt2000@gmail.com</p>
             
         </div>
-        <div className='my-4'>
-            <div className='px-2 tracking-wide'>
-                <p className='font-bold'>Personal Skills</p>
-                <ul className='lg:text-left'>
-                    <li>- Communication</li>
-                    <li>- Respectful</li>
-                    <li>- Team work</li>
-                    <li>- Curious</li>
-                </ul>
-            </div>
-        </div>
+        
         <div>
             <div className='px-2 tracking-wide'>
                 <p className='font-bold'>Technical Skills</p>
